@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [dadyarri/jacob](https://github.com/dadyarri/jacob), [my-history/motherland](https://github.com/my-history/motherland)
-- 🌱 I’m currently learning Python, Django, Vue.js
+- 🌱 I’m currently learning Python, Django, Vue.js, Rust
 - 🤔 I’m looking for help with Django, Vue.js
 - 📫 How to reach me: [Telegram: @dadyarri](https://t.me/dadyarri)
 

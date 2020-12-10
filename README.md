@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [dadyarri/jacob](https://github.com/dadyarri/jacob)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Haskell, Python
 
 ### My links
 

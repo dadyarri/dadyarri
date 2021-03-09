@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [dadyarri/jacob](https://github.com/dadyarri/jacob)
+- 🔭 I’m currently working on [uni-jacob](https://github.com/uni-jacob)
 - 🌱 I’m currently learning Python, how to learn & teach
 
 ### My links

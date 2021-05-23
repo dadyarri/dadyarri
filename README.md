@@ -1,6 +1,6 @@
 Hi there 👋. My name is Daniil. I'm Junior developer (mostly on Python)
 
-- 🔭 I’m currently working on [uni-jacob](https://github.com/uni-jacob)
+- 🔭 I’m currently working on improving my [dotfiles](https://github.com/dadyarri/dotfiles) and trying to understand math :cry:
 - 🌱 I’m currently learning Python, how to learn & teach
 
 ### How to reach me

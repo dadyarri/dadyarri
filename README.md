@@ -1,5 +1,5 @@
 Hi there 👋. My name is Daniil. I'm Junior developer (mostly on Python)  
-At the time i'm a CS student in Vladimir, Russia
+At the time i'm a CS student in Vladimir, Russia  
 Open to work, [my CV](https://clck.ru/V8KW2)
 
 - 🔭 I’m currently working on improving my [dotfiles](https://github.com/dadyarri/dotfiles)

@@ -4,7 +4,7 @@ Open to work, [my CV](https://clck.ru/V8KW2)
 
 - 🔭 I’m currently working on improving my [dotfiles](https://github.com/dadyarri/dotfiles)
 - :cry: How to understand ~~fucking~~ math?
-- 🌱 I’m currently learning Python, Lua, Vim how to learn effectively & explain clearly
+- 🌱 I’m currently learning Python, Lua, Vim and how to learn effectively & explain clearly
 
 ### How to reach me
 

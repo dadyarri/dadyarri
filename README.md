@@ -1,8 +1,8 @@
 Hi there 👋. My name is Daniil. I'm Junior developer (mostly on Python)
 
 - 🔭 I’m currently working on improving my [dotfiles](https://github.com/dadyarri/dotfiles) 
-- How to understand ~~fucking~~ math :cry:
-- 🌱 I’m currently learning Python, how to learn & teach
+- :cry: How to understand ~~fucking~~ math
+- 🌱 I’m currently learning Python,Lua, how to learn effectively & explain clearly
 
 ### How to reach me
 

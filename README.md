@@ -1,9 +1,9 @@
 Hi there 👋. My name is Daniil. I'm Junior developer (mostly on Python)  
 At the time i'm a CS student in Vladimir, Russia  
-Open to work, [my CV](https://clck.ru/V8KW2)
+Work as teacher in [IT Academy Step](itstep.org/en)
+<!--Open to work, [my CV](https://clck.ru/V8KW2)-->
 
 - 🔭 I’m currently working on improving my [dotfiles](https://github.com/dadyarri/dotfiles)
-- :cry: How to understand ~~fucking~~ math?
 - 🌱 I’m currently learning Python, Lua, Vim and how to learn effectively & explain clearly
 
 ### How to reach me

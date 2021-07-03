@@ -1,6 +1,6 @@
 Hi there 👋. My name is Daniil. I'm Junior developer (mostly on Python)  
 At the time i'm a CS student in Vladimir, Russia  
-Work as teacher in [IT Academy Step](itstep.org/en)
+Work as teacher at [IT Academy Step](itstep.org/en)
 <!--Open to work, [my CV](https://clck.ru/V8KW2)-->
 
 - 🔭 I’m currently working on improving my [dotfiles](https://github.com/dadyarri/dotfiles)

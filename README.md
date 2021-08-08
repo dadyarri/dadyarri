@@ -60,8 +60,8 @@ Work as teacher at <a href="https://itstep.org/en">IT Academy Step</a>
 
 <a title="Vkontakte" href="https://vk.com/dadyarri"><img src="https://img.shields.io/badge/-vkontakte-4680C2?style=for-the-badge&logo=vk&logoColor=white"></a>
 <a title="Telegram" href="https://t.me/dadyarri"><img src="https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a title="Blog (in Russian)" href="https://t.me/dadyarriscorner"><img src="https://img.shields.io/badge/-Blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white"></a>
-<a title="Blog (in Russian)" href="https://t.me/dadyarriscorner"><img src="https://img.shields.io/badge/-telegraph-FAFAFA?style=for-the-badge&logo=telegraph&logoColor=black"></a>
+<a title="Blog (in Russian)" href="https://t.me/yadevblog"><img src="https://img.shields.io/badge/-Blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white"></a>
+<a title="Blog (in Russian)" href="https://telegra.ph/yadb"><img src="https://img.shields.io/badge/-telegraph-FAFAFA?style=for-the-badge&logo=telegraph&logoColor=black"></a>
 <a title="Linkedin" href="https://linkdein.com/in/dadyarri"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <hr>
@@ -69,7 +69,6 @@ Work as teacher at <a href="https://itstep.org/en">IT Academy Step</a>
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Второй мозг](https://teletype.in/@dadyarri/second_mind)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>

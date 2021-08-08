@@ -69,6 +69,7 @@ Work as teacher at <a href="https://itstep.org/en">IT Academy Step</a>
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Второй мозг](https://teletype.in/@yadb/second_mind)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>

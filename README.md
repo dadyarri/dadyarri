@@ -42,14 +42,14 @@ Work as teacher at <a href="https://itstep.org/en">IT Academy Step</a>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/dadyarri/dotfiles?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/dadyarri/dotfiles?style=flat-square&labelColor=343b41"/></td>
       <td><a href="https://github.com/dadyarri/dotfiles/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dadyarri/dotfiles?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/dadyarri/dotfiles/pulls"><img alt="Pulls" src="https://img.shields.io/github/pulls/dadyarri/dotfiles?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dadyarri/dotfiles/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/dadyarri/dotfiles?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/uni-jacob/jacob"><b>Jacob</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/uni-jacob/jacob?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/uni-jacob/jacob?style=flat-square&labelColor=343b41"/></td>
       <td><a href="https://github.com/uni-jacob/jacob/issues"><img alt="Issues" src="https://img.shields.io/github/issues/uni-jacob/jacob?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/uni-jacob/jacob/pulls"><img alt="Pulls" src="https://img.shields.io/github/pulls/uni-jacob/jacob?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/uni-jacob/jacob/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/uni-jacob/jacob?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
   </tbody>
 </table>

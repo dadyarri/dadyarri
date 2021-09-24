@@ -12,15 +12,15 @@ Work as teacher at <a href="https://itstep.org/en">IT Academy Step</a>
 <h3>Things I code with</h3>
 
 <p>
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-    <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-    <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-    <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
-    <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000?style=flat-square&logo=pycharm&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white" />
+    <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+    <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
 <hr>
@@ -39,17 +39,17 @@ Work as teacher at <a href="https://itstep.org/en">IT Academy Step</a>
   <tbody>
     <tr>
       <td><a href="https://github.com/dadyarri/dotfiles"><b>Dotfiles</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/dadyarri/dotfiles?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/dadyarri/dotfiles?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://github.com/dadyarri/dotfiles/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dadyarri/dotfiles?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/dadyarri/dotfiles/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/dadyarri/dotfiles?style=flat-square&labelColor=343b41"/></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></td>
+      <td><a href="https://github.com/dadyarri/dotfiles/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dadyarri/dotfiles/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></a></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/uni-jacob/jacob"><b>Jacob</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/uni-jacob/jacob?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/uni-jacob/jacob?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://github.com/uni-jacob/jacob/issues"><img alt="Issues" src="https://img.shields.io/github/issues/uni-jacob/jacob?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/uni-jacob/jacob/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/uni-jacob/jacob?style=flat-square&labelColor=343b41"/></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/uni-jacob/jacob?style=for-the-badge&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/uni-jacob/jacob?style=for-the-badge&labelColor=343b41"/></td>
+      <td><a href="https://github.com/uni-jacob/jacob/issues"><img alt="Issues" src="https://img.shields.io/github/issues/uni-jacob/jacob?style=for-the-badge&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/uni-jacob/jacob/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/uni-jacob/jacob?style=for-the-badge&labelColor=343b41"/></a></td>
     </tr>
   </tbody>
 </table>

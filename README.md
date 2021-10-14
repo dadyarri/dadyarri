@@ -58,7 +58,6 @@ Work as teacher at <a href="https://itstep.org/en">IT Academy Step</a>
 
 ### How to reach me
 
-<a title="Vkontakte" href="https://vk.com/dadyarri"><img src="https://img.shields.io/badge/-vkontakte-4680C2?style=for-the-badge&logo=vk&logoColor=white"></a>
 <a title="Telegram" href="https://t.me/dadyarri"><img src="https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a title="Blog (in Russian)" href="https://t.me/yadevblog"><img src="https://img.shields.io/badge/-Blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white"></a>
 <a title="Blog (in Russian)" href="https://teletype.in/@yadb"><img src="https://img.shields.io/badge/-teletype-FAFAFA?style=for-the-badge&logo=telegraph&logoColor=black"></a>

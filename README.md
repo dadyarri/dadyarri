@@ -52,7 +52,7 @@ Work as teacher at <a href="https://itstep.org/en">IT Academy Step</a>
       <td><a href="https://github.com/uni-jacob/jacob/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/uni-jacob/jacob?style=for-the-badge&labelColor=343b41"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/dadyarri/choco-manager"><b>Jacob</b></a></td>
+      <td><a href="https://github.com/dadyarri/choco-manager"><b>ChocoManager</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/dadyarri/choco-manager?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/dadyarri/choco-manager?style=for-the-badge&labelColor=343b41"/></td>
       <td><a href="https://github.com/dadyarri/choco-manager/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dadyarri/choco-manager?style=for-the-badge&labelColor=343b41"/></a></td>

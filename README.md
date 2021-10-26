@@ -3,6 +3,7 @@
 <p>Welcome to my page!</br>
 I'm Daniil, Backend developer and CS student from <img src="https://image.flaticon.com/icons/png/512/197/197408.png" width="13"> <b>Vladimir, Russia</b></br>
 </p>
+:mortar_board: <b>Learning:</b> FastAPI, asyncronyous programming, Django, OOP
 
 Open to work, [my CV](https://clck.ru/V8KW2)
 

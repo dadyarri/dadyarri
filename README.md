@@ -75,7 +75,7 @@ Open to work, [my CV](https://clck.ru/V8KW2)
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Проекты и жизня (ноябрь 2021 edition)](https://teletype.in/@yadb/nov21-news)
+- [Проекты и жизня &lpar;ноябрь 2021 edition&rpar;](https://teletype.in/@yadb/nov21-news)
 - [Второй мозг](https://teletype.in/@yadb/second_mind)
 <!-- BLOG-POST-LIST:END -->
 

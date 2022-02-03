@@ -12,15 +12,12 @@ Open to work, [my CV](https://clck.ru/V8KW2)
 <h3>Things I code with</h3>
 
 <p>
+    <img alt="Java" src="https://img.shields.io/badge/-Java-D0A384?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt=".NET" src="https://img.shields.io/badge/-.NET-605ca9?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white" />
-    <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-    <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
 <hr>

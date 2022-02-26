@@ -3,7 +3,7 @@
 <p>Welcome to my page!</br>
 I'm Daniil, Backend developer and CS student from <img src="https://image.flaticon.com/icons/png/512/197/197408.png" width="13"> <b>Vladimir, Russia</b></br>
 </p>
-:mortar_board: <b>Learning:</b> Java, .NET
+:mortar_board: <b>Learning:</b> Java, .NET, Flutter
 
 Open to work, [my CV](https://clck.ru/V8KW2)
 
@@ -12,6 +12,7 @@ Open to work, [my CV](https://clck.ru/V8KW2)
 <h3>Things I code with</h3>
 
 <p>
+    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-4285F4?style=for-the-badge&logo=flutter&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-D0A384?style=for-the-badge&logo=java&logoColor=white" />
     <img alt=".NET" src="https://img.shields.io/badge/-.NET-605ca9?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />

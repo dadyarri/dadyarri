@@ -3,6 +3,7 @@
   I'm Daniil, Backend developer and CS student from <img src="https://img.icons8.com/color/344/russian-federation-circular.png" width="13"> <b>Vladimir, Russia</b></br>
 </p>
 :mortar_board: <b>Learning:</b> Java, .NET, Flutter
+
 Open to work, [my CV](https://clck.ru/V8KW2)
 <hr>
 <h3>Things I code with</h3>

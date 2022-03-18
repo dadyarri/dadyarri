@@ -13,7 +13,7 @@ Open to work, [my CV](https://clck.ru/V8KW2)
 
 <p>
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-4285F4?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-D0A384?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=for-the-badge&logo=java&logoColor=white" />
     <img alt=".NET" src="https://img.shields.io/badge/-.NET-605ca9?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />

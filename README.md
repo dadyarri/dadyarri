@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page!</br>
-  I'm Daniil, Backend developer and CS student from <img src="https://image.flaticon.com/icons/png/512/197/197408.png" width="13"> <b>Vladimir, Russia</b></br>
+  I'm Daniil, Backend developer and CS student from <img src="https://img.icons8.com/color/344/russian-federation-circular.png" width="13"> <b>Vladimir, Russia</b></br>
 </p>
 :mortar_board: <b>Learning:</b> Java, .NET, Flutter
 Open to work, [my CV](https://clck.ru/V8KW2)
@@ -30,7 +30,7 @@ Open to work, [my CV](https://clck.ru/V8KW2)
   <tbody>
     <tr>
     <tr>
-      <td><a href="https://github.com/dadyarri/choco"><b>Student Archive. Backend</b></a></td>
+      <td><a href="https://github.com/student-archive/backend"><b>Student Archive. Backend</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/student-archive/backend?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/student-archive/backend?style=for-the-badge&labelColor=343b41"/></td>
       <td><a href="https://github.com/dadyarri/student-archive/backend"><img alt="Issues" src="https://img.shields.io/github/issues/student-archive/backend?style=for-the-badge&labelColor=343b41"/></a></td>

@@ -69,10 +69,10 @@ Open to work, [my CV](https://clck.ru/V8KW2)
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Control](https://teletype.in/@yadevblog/control)
-- [Второй мозг. Reinvented edition](https://teletype.in/@yadevblog/second-mind-ed2)
-- [Проекты и жизня &lpar;ноябрь 2021 edition&rpar;](https://teletype.in/@yadevblog/nov21-news)
-- [Второй мозг](https://teletype.in/@yadevblog/second_mind)
+- [Control](https://teletype.in/@yadevblog/control?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [Второй мозг. Reinvented edition](https://teletype.in/@yadevblog/second-mind-ed2?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [Проекты и жизня &lpar;ноябрь 2021 edition&rpar;](https://teletype.in/@yadevblog/nov21-news?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [Второй мозг](https://teletype.in/@yadevblog/second_mind?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>

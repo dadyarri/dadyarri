@@ -2,7 +2,7 @@
 <p>Welcome to my page!</br>
   I'm Daniil, Backend developer and CS student from <img src="https://img.icons8.com/color/344/russian-federation-circular.png" width="13"> <b>Vladimir, Russia</b></br>
 </p>
-:mortar_board: <b>Learning:</b> Java, .NET, Flutter
+:mortar_board: <b>Learning:</b> .NET
 
 Open to work, [my CV](https://clck.ru/V8KW2)
 <hr>
@@ -10,7 +10,7 @@ Open to work, [my CV](https://clck.ru/V8KW2)
 <p>
   <!--<img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=for-the-badge&logo=java&logoColor=white" />-->
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-605ca9?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <!--<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />-->
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 <hr>
@@ -26,14 +26,13 @@ Open to work, [my CV](https://clck.ru/V8KW2)
     </tr>
   </thead>
   <tbody>
-    <tr>
-    <tr>
+    <!--<tr>
       <td><a href="https://github.com/student-archive/backend"><b>Student Archive. Backend</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/student-archive/backend?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/student-archive/backend?style=for-the-badge&labelColor=343b41"/></td>
       <td><a href="https://github.com/dadyarri/student-archive/backend"><img alt="Issues" src="https://img.shields.io/github/issues/student-archive/backend?style=for-the-badge&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/student-archive/backend/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/student-archive/backend?style=for-the-badge&labelColor=343b41"/></a></td>
-    </tr>
+    </tr>-->
     <!--<td><a href="https://github.com/dadyarri/dotfiles"><b>Dotfiles</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></td>

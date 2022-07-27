@@ -33,12 +33,12 @@ Open to work, [my CV](https://clck.ru/V8KW2)
       <td><a href="https://github.com/dadyarri/student-archive/backend"><img alt="Issues" src="https://img.shields.io/github/issues/student-archive/backend?style=for-the-badge&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/student-archive/backend/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/student-archive/backend?style=for-the-badge&labelColor=343b41"/></a></td>
     </tr>-->
-    <!--<td><a href="https://github.com/dadyarri/dotfiles"><b>Dotfiles</b></a></td>
+    <td><a href="https://github.com/dadyarri/dotfiles"><b>Dotfiles</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></td>
       <td><a href="https://github.com/dadyarri/dotfiles/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/dadyarri/dotfiles/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></a></td>
-      </tr>-->
+      </tr>
     <!--<tr>
       <td><a href="https://github.com/uni-jacob/jacob"><b>Jacob</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/uni-jacob/jacob?style=for-the-badge&labelColor=343b41"/></td>

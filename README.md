@@ -61,7 +61,7 @@ Open to work, [my CV](https://clck.ru/V8KW2)
 
 <a title="Telegram" href="https://t.me/dadyarri"><img src="https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a title="Blog (in Russian)" href="https://t.me/yadevblog"><img src="https://img.shields.io/badge/-Blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white"></a>
-<a title="Blog (in Russian)" href="https://teletype.in/@yadb"><img src="https://img.shields.io/badge/-teletype-FAFAFA?style=for-the-badge&logo=telegraph&logoColor=black"></a>
+<a title="Blog (in Russian)" href="https://blog.dadyarri.ru"><img src="https://img.shields.io/badge/-teletype-FAFAFA?style=for-the-badge&logo=telegraph&logoColor=black"></a>
 <a title="Linkedin" href="https://linkedin.com/in/dadyarri"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <hr>
 

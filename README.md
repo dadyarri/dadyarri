@@ -4,7 +4,7 @@
 </p>
 :mortar_board: <b>Learning:</b> .NET
 
-Open to work, [my CV](https://clck.ru/V8KW2)
+Open to work, [my CV](https://cv.dadyarri.ru)
 <hr>
 <h3>Things I code with</h3>
 <p>

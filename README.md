@@ -68,10 +68,11 @@ Open to work, [my CV](https://cv.dadyarri.ru)
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Control](https://teletype.in/@yadevblog/control?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
-- [Второй мозг. Reinvented edition](https://teletype.in/@yadevblog/second-mind-ed2?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
-- [Проекты и жизня &lpar;ноябрь 2021 edition&rpar;](https://teletype.in/@yadevblog/nov21-news?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
-- [Второй мозг](https://teletype.in/@yadevblog/second_mind?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [Nim](https://blog.dadyarri.ru/nim?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [Мои настройки Linux](https://blog.dadyarri.ru/dotfiles?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [Control](https://blog.dadyarri.ru/control?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [Второй мозг. Reinvented edition](https://blog.dadyarri.ru/second-mind-ed2?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [Проекты и жизня &lpar;ноябрь 2021 edition&rpar;](https://blog.dadyarri.ru/nov21-news?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>

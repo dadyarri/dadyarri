@@ -4,7 +4,7 @@
 </p>
 :mortar_board: <b>Learning:</b> .NET
 
-Open to work, [my CV](https://cv.dadyarri.ru)
+Open to work, [my CV](https://cv.dadyarri.ru?utm_source=github)
 <hr>
 <h3>Things I code with</h3>
 <p>
@@ -61,18 +61,18 @@ Open to work, [my CV](https://cv.dadyarri.ru)
 
 <a title="Telegram" href="https://t.me/dadyarri"><img src="https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a title="Blog (in Russian)" href="https://t.me/yadevblog"><img src="https://img.shields.io/badge/-Blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white"></a>
-<a title="Blog (in Russian)" href="https://blog.dadyarri.ru"><img src="https://img.shields.io/badge/-teletype-FAFAFA?style=for-the-badge&logo=telegraph&logoColor=black"></a>
+<a title="Blog (in Russian)" href="https://blog.dadyarri.ru?utm_source=github"><img src="https://img.shields.io/badge/-teletype-FAFAFA?style=for-the-badge&logo=telegraph&logoColor=black"></a>
 <a title="Linkedin" href="https://linkedin.com/in/dadyarri"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <hr>
 
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я возненавидел Java](https://blog.dadyarri.ru/how-i-hated-java?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
-- [React](https://blog.dadyarri.ru/react?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
-- [Nim](https://blog.dadyarri.ru/nim?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
-- [Мои настройки Linux](https://blog.dadyarri.ru/dotfiles?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
-- [Control](https://blog.dadyarri.ru/control?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [Как я возненавидел Java](https://blog.dadyarri.ru/how-i-hated-java?utm_source=github)
+- [React](https://blog.dadyarri.ru/react?utm_source=github)
+- [Nim](https://blog.dadyarri.ru/nim?utm_source=github)
+- [Мои настройки Linux](https://blog.dadyarri.ru/dotfiles?utm_source=github)
+- [Control](https://blog.dadyarri.ru/control?utm_source=github)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>

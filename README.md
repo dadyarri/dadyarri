@@ -12,6 +12,7 @@ Open to work, [my CV](https://cv.dadyarri.ru?utm_source=github)
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-605ca9?style=for-the-badge&logo=dotnet&logoColor=white" />
   <!--<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />-->
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-00d8ff?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 <hr>
 <h3>Actively developing projects</h3>

@@ -69,11 +69,11 @@ Open to work, [my CV](https://cv.dadyarri.ru?utm_source=github)
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows для разработчика](https://blog.dadyarri.ru/developer-windows?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
 - [Как я возненавидел Java](https://blog.dadyarri.ru/how-i-hated-java?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
 - [React](https://blog.dadyarri.ru/react?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
 - [Nim](https://blog.dadyarri.ru/nim?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
 - [Мои настройки Linux](https://blog.dadyarri.ru/dotfiles?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
-- [Control](https://blog.dadyarri.ru/control?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>

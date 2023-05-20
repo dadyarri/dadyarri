@@ -59,7 +59,13 @@ Open to work, [my CV](https://dadyarri.ru/assets/cv.pdf)
 <hr>
 
 ### Latest blog posts
-<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Подключение валидации к строго типизированной конфигурации в .NET 6+](https://teletype.in/@yadevblog/typed-config-dotnet-6?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [Windows для разработчика](https://teletype.in/@yadevblog/developer-windows?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [Как я возненавидел Java](https://teletype.in/@yadevblog/how-i-hated-java?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [React](https://teletype.in/@yadevblog/react?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+- [Nim](https://teletype.in/@yadevblog/nim?utm_source=teletype&utm_medium=feed_rss&utm_campaign=yadevblog)
+<!-- BLOG-POST-LIST:END -->
 
 ### How to reach me
 

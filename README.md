@@ -58,22 +58,15 @@ Open to work, [my CV](https://dadyarri.ru/assets/cv.pdf)
 </table>
 <hr>
 
+### Latest blog posts
+<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
+
 ### How to reach me
 
 <a title="Telegram" href="https://t.me/dadyarri"><img src="https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a title="Blog (in Russian)" href="https://t.me/yadevblog"><img src="https://img.shields.io/badge/-Blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white"></a>
-<a title="Blog (in Russian)" href="https://blog.dadyarri.ru?utm_source=github"><img src="https://img.shields.io/badge/-teletype-FAFAFA?style=for-the-badge&logo=telegraph&logoColor=black"></a>
+<a title="Blog (in Russian)" href="https://dadyarri.ru/blog?utm_source=github"><img src="https://img.shields.io/badge/-teletype-FAFAFA?style=for-the-badge&logo=telegraph&logoColor=black"></a>
 <a title="Linkedin" href="https://linkedin.com/in/dadyarri"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<hr>
-
-### Latest blog posts
-
-- [Подключение валидации к строго типизированной конфигурации в .NET 6+](https://dadyarri.ru/posts/typed-config-dotnet/)
-
-<hr>
-
-![Dadyarri's github stats](https://github-readme-stats.vercel.app/api?username=dadyarri&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
-
 <hr>
 
 ###### This readme was inspired by <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt's</a> readme and <a href="https://awesomegithubprofile.tech/">Awesome Github Profile</a>

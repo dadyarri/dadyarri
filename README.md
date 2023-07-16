@@ -8,18 +8,17 @@ Open to work, [my CV](https://dadyarri.ru/assets/cv.pdf)
 <hr>
 <h3>Things I code with</h3>
 <p>
-  <!--<img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=for-the-badge&logo=java&logoColor=white" />-->
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-605ca9?style=for-the-badge&logo=dotnet&logoColor=white" />
   <!--<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />-->
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-00d8ff?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 <hr>
 <h3>Actively developing projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>🎁 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
@@ -27,32 +26,34 @@ Open to work, [my CV](https://dadyarri.ru/assets/cv.pdf)
     </tr>
   </thead>
   <tbody>
-    <!--<tr>
-      <td><a href="https://github.com/student-archive/backend"><b>Student Archive. Backend</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/student-archive/backend?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/student-archive/backend?style=for-the-badge&labelColor=343b41"/></td>
-      <td><a href="https://github.com/dadyarri/student-archive/backend"><img alt="Issues" src="https://img.shields.io/github/issues/student-archive/backend?style=for-the-badge&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/student-archive/backend/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/student-archive/backend?style=for-the-badge&labelColor=343b41"/></a></td>
-    </tr>-->
-    <!--<td><a href="https://github.com/dadyarri/dotfiles"><b>Dotfiles</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></td>
-      <td><a href="https://github.com/dadyarri/dotfiles/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/dadyarri/dotfiles/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/dadyarri/dotfiles?style=for-the-badge&labelColor=343b41"/></a></td>
-      </tr>-->
-    <!--<tr>
-      <td><a href="https://github.com/uni-jacob/jacob"><b>Jacob</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/uni-jacob/jacob?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/uni-jacob/jacob?style=for-the-badge&labelColor=343b41"/></td>
-      <td><a href="https://github.com/uni-jacob/jacob/issues"><img alt="Issues" src="https://img.shields.io/github/issues/uni-jacob/jacob?style=for-the-badge&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/uni-jacob/jacob/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/uni-jacob/jacob?style=for-the-badge&labelColor=343b41"/></a></td>
-      </tr>-->
     <tr>
-      <td><a href="https://github.com/dadyarri/choco"><b>ChocoManager</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/dadyarri/choco?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/dadyarri/choco?style=for-the-badge&labelColor=343b41"/></td>
-      <td><a href="https://github.com/dadyarri/choco/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dadyarri/choco?style=for-the-badge&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/dadyarri/choco/pulls"><img alt="Pulls" src="https://img.shields.io/github/issues-pr/dadyarri/choco?style=for-the-badge&labelColor=343b41"/></a></td>
+      <td>
+        <a href="https://github.com/choco-manager"><b>ChocoManager</b></a>
+      </td>
+      <td>
+        <img alt="Stars (Backend)" src="https://img.shields.io/github/stars/choco-manager/backend?style=for-the-badge&labelColor=343b41&label=Stars (Backend)"/>
+        <img alt="Stars (Application)" src="https://img.shields.io/github/stars/choco-manager/application?style=for-the-badge&labelColor=343b41&label=Stars (Application)"/>
+      </td>
+      <td>
+        <img alt="Forks (Backend)" src="https://img.shields.io/github/forks/choco-manager/backend?style=for-the-badge&labelColor=343b41&label=Forks (Backend)"/>
+        <img alt="Forks (Application)" src="https://img.shields.io/github/forks/choco-manager/application?style=for-the-badge&labelColor=343b41&label=Forks (Application)"/>
+      </td>
+      <td>
+        <a href="https://github.com/choco-manager/backend/issues">
+          <img alt="Issues" src="https://img.shields.io/github/issues/choco-manager/backend?style=for-the-badge&labelColor=343b41&label=Issues (Backend)"/>
+        </a>
+        <a href="https://github.com/choco-manager/application/issues">
+          <img alt="Issues" src="https://img.shields.io/github/issues/choco-manager/application?style=for-the-badge&labelColor=343b41&label=Issues (Application)"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/choco-manager/backend/pulls">
+          <img alt="Pulls" src="https://img.shields.io/github/issues-pr/choco-manager/backend?style=for-the-badge&labelColor=343b41&label=PRs (Backend)"/>
+        </a>
+        <a href="https://github.com/choco-manager/application/pulls">
+          <img alt="Pulls" src="https://img.shields.io/github/issues-pr/choco-manager/application?style=for-the-badge&labelColor=343b41&label=PRs (Application)"/>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>

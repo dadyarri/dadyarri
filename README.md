@@ -61,9 +61,9 @@ Open to work, [my CV](https://dadyarri.ru/assets/cv.pdf)
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Asciidoc для генерации отчётов к лабораторным работам](https://dadyarri.ru/blog/asciidoc/)
-- [Валидация конфигурации с помощью FluentValidation](https://dadyarri.ru/blog/config-fluent-validation/)
-- [Валидация конфигурации в .NET 6+](https://dadyarri.ru/blog/typed-config-dotnet/)
+- [Asciidoc для генерации отчётов к лабораторным работам](https://dadyarri.ru/posts/asciidoc/)
+- [Валидация конфигурации с помощью FluentValidation](https://dadyarri.ru/posts/config-fluent-validation/)
+- [Валидация конфигурации в .NET 6+](https://dadyarri.ru/posts/typed-config-dotnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ### How to reach me

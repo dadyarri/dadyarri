@@ -1,10 +1,10 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>Salut, I'm Daniil! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <p>Welcome to my page!</br>
-  I'm Daniil, Backend developer and CS student from <img src="https://img.icons8.com/color/344/russian-federation-circular.png" width="13"> <b>Vladimir, Russia</b></br>
+  I'm backend developer and CS student from <img src="https://img.icons8.com/color/344/russian-federation-circular.png" width="13"> <b>Vladimir, Russia</b></br>
 </p>
 :mortar_board: <b>Learning:</b> .NET
 
-Open to work, [my CV](https://dadyarri.ru/assets/cv.pdf)
+Open to work, [my CV](https://dadyarri.ru/cv)
 <hr>
 <h3>Things I code with</h3>
 <p>
@@ -26,7 +26,7 @@ Open to work, [my CV](https://dadyarri.ru/assets/cv.pdf)
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <!--<tr>
       <td>
         <a href="https://github.com/choco-manager"><b>ChocoManager</b></a>
       </td>
@@ -54,7 +54,7 @@ Open to work, [my CV](https://dadyarri.ru/assets/cv.pdf)
           <img alt="Pulls" src="https://img.shields.io/github/issues-pr/choco-manager/application?style=for-the-badge&labelColor=343b41&label=PRs (Application)"/>
         </a>
       </td>
-    </tr>
+    </tr>-->
   </tbody>
 </table>
 <hr>
@@ -72,7 +72,7 @@ Open to work, [my CV](https://dadyarri.ru/assets/cv.pdf)
 
 <a title="Telegram" href="https://t.me/dadyarri"><img src="https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a title="Blog (in Russian)" href="https://t.me/yadevblog"><img src="https://img.shields.io/badge/-Blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white"></a>
-<a title="Blog (in Russian)" href="https://dadyarri.ru/blog?utm_source=github"><img src="https://img.shields.io/badge/-teletype-FAFAFA?style=for-the-badge&logo=telegraph&logoColor=black"></a>
+<a title="Blog (in Russian)" href="https://dadyarri.ru/posts?utm_source=github"><img src="https://img.shields.io/badge/-Blog-FAFAFA?style=for-the-badge&logo=rss&logoColor=black"></a>
 <a title="Linkedin" href="https://linkedin.com/in/dadyarri"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <hr>
 

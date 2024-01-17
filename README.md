@@ -1,12 +1,12 @@
-<h1>Salut, I'm Daniil! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<p>Welcome to my page!</br>
-  I'm backend developer and CS student from <img src="https://img.icons8.com/color/344/russian-federation-circular.png" width="13"> <b>Vladimir, Russia</b></br>
+<h1>Салют, я Даниил! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<p>
+  Я бэкенд-разработчик и студент технического университета из <img src="https://img.icons8.com/color/344/russian-federation-circular.png" width="13"> <b>Владимир, Россия</b></br>
 </p>
-:mortar_board: <b>Learning:</b> .NET
+:mortar_board: <b>Изучаю:</b> .NET
 
-Open to work, [my CV](https://dadyarri.ru/cv)
+Работаю в «Системы и технологии» .NET-разработчиком
 <hr>
-<h3>Things I code with</h3>
+<h3>Мой стек</h3>
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-605ca9?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -14,52 +14,8 @@ Open to work, [my CV](https://dadyarri.ru/cv)
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 <hr>
-<h3>Actively developing projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <!--<tr>
-      <td>
-        <a href="https://github.com/choco-manager"><b>ChocoManager</b></a>
-      </td>
-      <td>
-        <img alt="Stars (Backend)" src="https://img.shields.io/github/stars/choco-manager/backend?style=for-the-badge&labelColor=343b41&label=Stars (Backend)"/>
-        <img alt="Stars (Application)" src="https://img.shields.io/github/stars/choco-manager/application?style=for-the-badge&labelColor=343b41&label=Stars (Application)"/>
-      </td>
-      <td>
-        <img alt="Forks (Backend)" src="https://img.shields.io/github/forks/choco-manager/backend?style=for-the-badge&labelColor=343b41&label=Forks (Backend)"/>
-        <img alt="Forks (Application)" src="https://img.shields.io/github/forks/choco-manager/application?style=for-the-badge&labelColor=343b41&label=Forks (Application)"/>
-      </td>
-      <td>
-        <a href="https://github.com/choco-manager/backend/issues">
-          <img alt="Issues" src="https://img.shields.io/github/issues/choco-manager/backend?style=for-the-badge&labelColor=343b41&label=Issues (Backend)"/>
-        </a>
-        <a href="https://github.com/choco-manager/application/issues">
-          <img alt="Issues" src="https://img.shields.io/github/issues/choco-manager/application?style=for-the-badge&labelColor=343b41&label=Issues (Application)"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/choco-manager/backend/pulls">
-          <img alt="Pulls" src="https://img.shields.io/github/issues-pr/choco-manager/backend?style=for-the-badge&labelColor=343b41&label=PRs (Backend)"/>
-        </a>
-        <a href="https://github.com/choco-manager/application/pulls">
-          <img alt="Pulls" src="https://img.shields.io/github/issues-pr/choco-manager/application?style=for-the-badge&labelColor=343b41&label=PRs (Application)"/>
-        </a>
-      </td>
-    </tr>-->
-  </tbody>
-</table>
-<hr>
 
-### Latest blog posts
+### Последние посты в блоге
 <!-- BLOG-POST-LIST:START -->
 - [Организация сетевого взаимодействия с помощью Ktor](https://dadyarri.ru/posts/ktor-networking/)
 - [Удобство .NET](https://dadyarri.ru/posts/convenience-of-dotnet/)
@@ -68,12 +24,9 @@ Open to work, [my CV](https://dadyarri.ru/cv)
 - [Валидация конфигурации в .NET 6+](https://dadyarri.ru/posts/typed-config-dotnet/)
 <!-- BLOG-POST-LIST:END -->
 
-### How to reach me
+### Контакты
 
 <a title="Telegram" href="https://t.me/dadyarri"><img src="https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a title="Blog (in Russian)" href="https://t.me/yadevblog"><img src="https://img.shields.io/badge/-Blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white"></a>
-<a title="Blog (in Russian)" href="https://dadyarri.ru/posts?utm_source=github"><img src="https://img.shields.io/badge/-Blog-FAFAFA?style=for-the-badge&logo=rss&logoColor=black"></a>
+<a title="Блог" href="https://t.me/yadevblog"><img src="https://img.shields.io/badge/-Блог-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white"></a>
+<a title="Блог" href="https://dadyarri.ru/posts?utm_source=github"><img src="https://img.shields.io/badge/-Блог-FAFAFA?style=for-the-badge&logo=rss&logoColor=black"></a>
 <a title="Linkedin" href="https://linkedin.com/in/dadyarri"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<hr>
-
-###### This readme was inspired by <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt's</a> readme and <a href="https://awesomegithubprofile.tech/">Awesome Github Profile</a>

@@ -17,11 +17,11 @@
 
 ### Последние посты в блоге
 <!-- BLOG-POST-LIST:START -->
+- [Улучшаем механизм походов в сеть с помощью Ktor](https://dadyarri.ru/posts/better-ktor-networking/)
 - [Организация сетевого взаимодействия с помощью Ktor](https://dadyarri.ru/posts/ktor-networking/)
 - [Удобство .NET](https://dadyarri.ru/posts/convenience-of-dotnet/)
 - [Asciidoc для генерации отчётов к лабораторным работам](https://dadyarri.ru/posts/asciidoc/)
 - [Валидация конфигурации с помощью FluentValidation](https://dadyarri.ru/posts/config-fluent-validation/)
-- [Валидация конфигурации в .NET 6+](https://dadyarri.ru/posts/typed-config-dotnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Контакты

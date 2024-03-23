@@ -17,11 +17,11 @@
 
 ### Последние посты в блоге
 <!-- BLOG-POST-LIST:START -->
+- [Использование дашборда из Aspire в бэкенде на .NET](https://dadyarri.ru/posts/aspire-dashboard/)
 - [Улучшаем механизм походов в сеть с помощью Ktor](https://dadyarri.ru/posts/better-ktor-networking/)
 - [Организация сетевого взаимодействия с помощью Ktor](https://dadyarri.ru/posts/ktor-networking/)
 - [Удобство .NET](https://dadyarri.ru/posts/convenience-of-dotnet/)
 - [Asciidoc для генерации отчётов к лабораторным работам](https://dadyarri.ru/posts/asciidoc/)
-- [Валидация конфигурации с помощью FluentValidation](https://dadyarri.ru/posts/config-fluent-validation/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Контакты

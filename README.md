@@ -1,16 +1,15 @@
 <h1>Салют, я Даниил! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <p>
-  Я бэкенд-разработчик и студент технического университета из <img src="https://img.icons8.com/color/344/russian-federation-circular.png" width="13"> <b>Владимир, Россия</b></br>
+  Я бэкенд-разработчик из <img src="https://img.icons8.com/color/344/russian-federation-circular.png" width="13"> <b>Владимир, Россия</b></br>
 </p>
+
 :mortar_board: <b>Изучаю:</b> .NET
 
 Работаю в «Системы и технологии» .NET-разработчиком
 <hr>
 <h3>Мой стек</h3>
 <p>
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-605ca9?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <!--<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />-->
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 <hr>

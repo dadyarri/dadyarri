@@ -27,5 +27,4 @@
 
 <a title="Telegram" href="https://t.me/dadyarri"><img src="https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a title="Блог" href="https://t.me/yadevblog"><img src="https://img.shields.io/badge/-Блог-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white"></a>
-<a title="Блог" href="https://dadyarri.ru/posts?utm_source=github"><img src="https://img.shields.io/badge/-Блог-FAFAFA?style=for-the-badge&logo=rss&logoColor=black"></a>
-<a title="Linkedin" href="https://linkedin.com/in/dadyarri"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a title="Блог" href="https://dadyarri.ru?utm_source=github"><img src="https://img.shields.io/badge/-Блог-FAFAFA?style=for-the-badge&logo=rss&logoColor=black"></a>

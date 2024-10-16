@@ -16,11 +16,10 @@
 
 ### Последние посты в блоге
 <!-- BLOG-POST-LIST:START -->
+- [Бэкап GnuPG ключей](https://dadyarri.ru/minis/backup-gpg/)
 - [Полиморфная сериализация в Kotlin и C#](https://dadyarri.ru/posts/polymorphic-serialization/)
 - [Использование дашборда из Aspire в бэкенде на .NET](https://dadyarri.ru/posts/aspire-dashboard/)
-- [Улучшаем механизм походов в сеть с помощью Ktor](https://dadyarri.ru/posts/better-ktor-networking/)
-- [Организация сетевого взаимодействия с помощью Ktor](https://dadyarri.ru/posts/ktor-networking/)
-- [Удобство .NET](https://dadyarri.ru/posts/convenience-of-dotnet/)
+- [Ktor для сетевых запросов в мобильном приложении](https://dadyarri.ru/posts/better-ktor-networking/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Контакты

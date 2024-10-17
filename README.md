@@ -16,6 +16,7 @@
 
 ### Последние посты в блоге
 <!-- BLOG-POST-LIST:START -->
+- [Генерация Open Graph изображений на Rust](https://dadyarri.ru/posts/ogimages-rust/)
 - [Бэкап GnuPG ключей](https://dadyarri.ru/minis/backup-gpg/)
 - [Полиморфная сериализация в Kotlin и C#](https://dadyarri.ru/posts/polymorphic-serialization/)
 - [Использование дашборда из Aspire в бэкенде на .NET](https://dadyarri.ru/posts/aspire-dashboard/)

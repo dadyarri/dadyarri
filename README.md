@@ -16,11 +16,11 @@
 
 ### Последние посты в блоге
 <!-- BLOG-POST-LIST:START -->
+- [Настраиваемые Open Graph изображения на Rust](https://dadyarri.ru/posts/configurable-ogimages-rust/)
 - [Связывание конфигурации из JSON с моделью в ASP.NET](https://dadyarri.ru/minis/bind-configuration/)
 - [Ускоряем генерацию Open Graph изображений на Rust](https://dadyarri.ru/posts/better-ogimages-rust/)
 - [Генерация Open Graph изображений на Rust](https://dadyarri.ru/posts/ogimages-rust/)
 - [Бэкап GnuPG ключей](https://dadyarri.ru/minis/backup-gpg/)
-- [Полиморфная сериализация в Kotlin и C#](https://dadyarri.ru/posts/polymorphic-serialization/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Контакты

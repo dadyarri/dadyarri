@@ -3,7 +3,7 @@
   Я бэкенд-разработчик из <img src="https://img.icons8.com/color/344/russian-federation-circular.png" width="13"> <b>Владимир, Россия</b></br>
 </p>
 
-:mortar_board: <b>Изучаю:</b> .NET
+:mortar_board: <b>Изучаю:</b> .NET, Go
 
 Работаю в «Системы и технологии» .NET-разработчиком
 <hr>

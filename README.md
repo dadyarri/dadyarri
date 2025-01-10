@@ -16,11 +16,11 @@
 
 ### Последние посты в блоге
 <!-- BLOG-POST-LIST:START -->
+- [Генератор сайтов с блэкджеком и плагинами](https://dadyarri.ru/posts/ssg-with-blackjack-and-plugins/)
 - [Пути для бэкапа приложений](https://dadyarri.ru/minis/backup-paths/)
 - [Настраиваемые Open Graph изображения на Rust](https://dadyarri.ru/posts/configurable-ogimages-rust/)
 - [Связывание конфигурации из JSON с моделью в ASP.NET](https://dadyarri.ru/minis/bind-configuration/)
 - [Ускоряем генерацию Open Graph изображений на Rust](https://dadyarri.ru/posts/better-ogimages-rust/)
-- [Генерация Open Graph изображений на Rust](https://dadyarri.ru/posts/ogimages-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Контакты

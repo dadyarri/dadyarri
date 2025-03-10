@@ -16,11 +16,11 @@
 
 ### Последние посты в блоге
 <!-- BLOG-POST-LIST:START -->
+- [Разбор RPM-манифестов с помощью регулярных выражений](https://dadyarri.ru/minis/parse-rpm-regex/)
+- [Как я настроил свой домашний сервер вне дома](https://dadyarri.ru/posts/self-hosted/)
 - [Высшее образование: пустая трата времени или…](https://dadyarri.ru/posts/uni-summary/)
 - [Генератор сайтов с блэкджеком и плагинами](https://dadyarri.ru/posts/ssg-with-blackjack-and-plugins/)
 - [Пути для бэкапа приложений](https://dadyarri.ru/minis/backup-paths/)
-- [Настраиваемые Open Graph изображения на Rust](https://dadyarri.ru/posts/configurable-ogimages-rust/)
-- [Связывание конфигурации из JSON с моделью в ASP.NET](https://dadyarri.ru/minis/bind-configuration/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Контакты

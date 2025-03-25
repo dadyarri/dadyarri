@@ -3,7 +3,7 @@
   Я бэкенд-разработчик из <img src="https://img.icons8.com/color/344/russian-federation-circular.png" width="13"> <b>Владимир, Россия</b></br>
 </p>
 
-:mortar_board: <b>Изучаю:</b> .NET, Go
+:mortar_board: <b>Изучаю:</b> .NET
 
 Работаю в «Системы и технологии» .NET-разработчиком
 <hr>
@@ -26,5 +26,5 @@
 ### Контакты
 
 <a title="Telegram" href="https://t.me/dadyarri"><img src="https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a title="Блог" href="https://t.me/yadevblog"><img src="https://img.shields.io/badge/-Блог-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white"></a>
+<a title="Блог" href="https://t.me/jiznvscode"><img src="https://img.shields.io/badge/-Блог-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white"></a>
 <a title="Блог" href="https://dadyarri.ru?utm_source=github"><img src="https://img.shields.io/badge/-Блог-FAFAFA?style=for-the-badge&logo=rss&logoColor=black"></a>

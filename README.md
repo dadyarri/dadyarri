@@ -16,11 +16,11 @@
 
 ### Последние посты в блоге
 <!-- BLOG-POST-LIST:START -->
+- [Использование SSH-ключей с хоста на удалённом сервере](https://dadyarri.ru/minis/ssh-forwarding-agent/)
 - [Разбор RPM-манифестов с помощью регулярных выражений](https://dadyarri.ru/minis/parse-rpm-regex/)
 - [Как я настроил свой домашний сервер вне дома](https://dadyarri.ru/posts/self-hosted/)
 - [Высшее образование: пустая трата времени или…](https://dadyarri.ru/posts/uni-summary/)
 - [Генератор сайтов с блэкджеком и плагинами](https://dadyarri.ru/posts/ssg-with-blackjack-and-plugins/)
-- [Пути для бэкапа приложений](https://dadyarri.ru/minis/backup-paths/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Контакты

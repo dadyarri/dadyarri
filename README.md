@@ -16,11 +16,11 @@
 
 ### Последние посты в блоге
 <!-- BLOG-POST-LIST:START -->
+- [Переезд блога на другой фреймворк &lpar;да, опять&rpar;](https://dadyarri.ru/posts/yet-another-migration/)
 - [Как моя кампания закончилась, не успев начаться и что я понял про D&amp;D](https://dadyarri.ru/posts/campaign-finale/)
 - [Использование SSH-ключей с хоста на удалённом сервере](https://dadyarri.ru/minis/ssh-forwarding-agent/)
 - [Разбор RPM-манифестов с помощью регулярных выражений](https://dadyarri.ru/minis/parse-rpm-regex/)
 - [Как я настроил свой домашний сервер вне дома](https://dadyarri.ru/posts/self-hosted/)
-- [Высшее образование: пустая трата времени или…](https://dadyarri.ru/posts/uni-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Контакты

@@ -14,11 +14,11 @@
 
 ### Последние посты в блоге
 <!-- BLOG-POST-LIST:START -->
+- [Переезд домашней лаборатории с VDS на мини-пк](https://dadyarri.ru/posts/moving-self-hosting-to-home/)
 - [Эволюция генератора Open Graph изображений на C#](https://dadyarri.ru/posts/evolved-ogimages-dotnet/)
 - [Переезд блога на другой фреймворк &lpar;да, опять&rpar;](https://dadyarri.ru/posts/yet-another-migration/)
 - [Как моя кампания закончилась, не успев начаться и что я понял про D&amp;D](https://dadyarri.ru/posts/campaign-finale/)
 - [Использование SSH-ключей с хоста на удалённом сервере](https://dadyarri.ru/minis/ssh-forwarding-agent/)
-- [Разбор RPM-манифестов с помощью регулярных выражений](https://dadyarri.ru/minis/parse-rpm-regex/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Контакты
